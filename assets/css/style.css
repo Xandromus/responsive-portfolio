@@ -393,6 +393,7 @@ label {
     padding: 8px 23px;
     border: #4aaaa5 solid 2px;
     cursor: pointer;
+    transition: all ease-in-out .1s;
 }
 
 .submit:active {
