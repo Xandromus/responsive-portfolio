@@ -150,7 +150,6 @@ header {
     width: auto;
     line-height: 48px;
     font-weight: normal;
-    max-height: 60px;
 }
 
 .main-nav a:hover {
@@ -674,6 +673,7 @@ footer p {
         padding-bottom: 13px;
         line-height: normal;
         height: auto;
+        max-height: 60px;
     }
     .main-nav a:hover {
         margin: 0px 4%;
