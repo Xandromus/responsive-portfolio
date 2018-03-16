@@ -376,6 +376,10 @@ aside {
     animation-fill-mode: backwards;
 }
 
+.eight {
+    animation: fadeIn 1.25s ease-in-out 2.25s;
+    animation-fill-mode: backwards;
+}
 
 
 
